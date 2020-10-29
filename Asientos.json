@@ -1,0 +1,7 @@
+{
+	"asientos":[
+		{"fecha":"25-09-2020","concepto":"REINTEGRO CAJERO AUTOMATICO","importe": 150.00},
+		{"fecha":"28-09-2020","concepto":"CARGO POR TRASPASO SALDO","importe": 657.32},
+		{"fecha":"01-10-2020","concepto":"CARGO POR COBRO DE SERVICIO","importe": 2.50}
+	]
+}
